@@ -1,5 +1,7 @@
 let itemList = [];
 
+let ii = "ii"
+
 function addItem(item) {
   itemList.push(item);
 }
